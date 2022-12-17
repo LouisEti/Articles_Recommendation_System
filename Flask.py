@@ -122,7 +122,7 @@ def recommendation():
     return recommendation_list
 
 
-app.run()
+# app.run()
 
 
 
